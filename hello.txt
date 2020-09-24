@@ -1,6 +1,8 @@
 Hello World 
 Welcome t o EGCI313
-Talk to the Glyph witch 
+Talk to the Glyph  
 Today is the second lab
-yay
 hi
+
+this is fork version 
+halo
